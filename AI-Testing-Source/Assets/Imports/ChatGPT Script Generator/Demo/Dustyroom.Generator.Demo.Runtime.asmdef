@@ -1,0 +1,16 @@
+{
+    "name": "Dustyroom.Generator.Demo.Runtime",
+    "rootNamespace": "",
+    "references": [
+        "GUID:e89367a603d2a724f888210343ba968c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
